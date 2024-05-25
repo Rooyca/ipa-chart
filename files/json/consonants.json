@@ -1,0 +1,263 @@
+[
+	{
+        "name": "Voiceless bilabial plosive",
+        "symbol": "p",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_bilabial_plosive.ogg"
+    }, {
+        "name": "Voiced bilabial plosive",
+        "symbol": "b",
+        "audio": "https://www.ipachart.com/ogg/Voiced_bilabial_plosive.ogg"
+    }, {
+        "name": "Voiceless retroflex plosive",
+        "symbol": "ʈ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_retroflex_plosive.ogg"
+    }, {
+        "name": "Voiced retroflex plosive",
+        "symbol": "ɖ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_retroflex_plosive.ogg"
+    }, {
+        "name": "Voiceless palatal plosive",
+        "symbol": "c",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_palatal_plosive.ogg"
+    }, {
+        "name": "Voiced palatal plosive",
+        "symbol": "ɟ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_palatal_plosive.ogg"
+    }, {
+        "name": "Voiceless velar plosive",
+        "symbol": "k",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_velar_plosive.ogg"
+    }, {
+        "name": "Voiced velar plosive",
+        "symbol": "g",
+        "audio": "https://www.ipachart.com/ogg/Voiced_velar_plosive.ogg"
+    }, {
+        "name": "Voiceless uvular plosive",
+        "symbol": "q",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_uvular_plosive.ogg"
+    }, {
+        "name": "Voiced uvular plosive",
+        "symbol": "ɢ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_uvular_plosive.ogg"
+    }, {
+        "name": "Glottal stop",
+        "symbol": "ʔ",
+        "audio": "https://www.ipachart.com/ogg/Glottal_stop.ogg"
+    }, {
+        "name": "Bilabial nasal",
+        "symbol": "m",
+        "audio": "https://www.ipachart.com/ogg/Bilabial_nasal.ogg"
+    }, {
+        "name": "Labiodental nasal",
+        "symbol": "ɱ",
+        "audio": "https://www.ipachart.com/ogg/Labiodental_nasal.ogg"
+    }, {
+        "name": "Retroflex nasal",
+        "symbol": "ɳ",
+        "audio": "https://www.ipachart.com/ogg/Retroflex_nasal.ogg"
+    }, {
+        "name": "Palatal nasal",
+        "symbol": "ɲ",
+        "audio": "https://www.ipachart.com/ogg/Palatal_nasal.ogg"
+    }, {
+        "name": "Velar nasal",
+        "symbol": "ŋ",
+        "audio": "https://www.ipachart.com/ogg/Velar_nasal.ogg"
+    }, {
+        "name": "Uvular nasal",
+        "symbol": "ɴ",
+        "audio": "https://www.ipachart.com/ogg/Uvular_nasal.ogg"
+    }, {
+        "name": "Bilabial trill",
+        "symbol": "ʙ",
+        "audio": "https://www.ipachart.com/ogg/Bilabial_trill.ogg"
+    }, {
+        "name": "Uvular trill",
+        "symbol": "ʀ",
+        "audio": "https://www.ipachart.com/ogg/Uvular_trill.ogg"
+    }, {
+        "name": "Labiodental flap",
+        "symbol": "ⱱ",
+        "audio": "https://www.ipachart.com/ogg/Labiodental_flap.ogg"
+    }, {
+        "name": "Retroflex flap",
+        "symbol": "ɽ",
+        "audio": "https://www.ipachart.com/ogg/Retroflex_flap.ogg"
+    }, {
+        "name": "Voiceless bilabial fricative",
+        "symbol": "ɸ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_bilabial_fricative.ogg"
+    }, {
+        "name": "Voiced bilabial fricative",
+        "symbol": "β",
+        "audio": "https://www.ipachart.com/ogg/Voiced_bilabial_fricative.ogg"
+    }, {
+        "name": "Voiceless labiodental fricative",
+        "symbol": "f",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_labiodental_fricative.ogg"
+    }, {
+        "name": "Voiced labiodental fricative",
+        "symbol": "v",
+        "audio": "https://www.ipachart.com/ogg/Voiced_labiodental_fricative.ogg"
+    }, {
+        "name": "Voiceless dental fricative",
+        "symbol": "θ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_dental_fricative.ogg"
+    }, {
+        "name": "Voiced dental fricative",
+        "symbol": "ð",
+        "audio": "https://www.ipachart.com/ogg/Voiced_dental_fricative.ogg"
+    }, {
+        "name": "Voiceless alveolar fricative",
+        "symbol": "s",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_alveolar_fricative.ogg"
+    }, {
+        "name": "Voiced alveolar fricative",
+        "symbol": "z",
+        "audio": "https://www.ipachart.com/ogg/Voiced_alveolar_fricative.ogg"
+    }, {
+        "name": "Voiceless postalveolar fricative",
+        "symbol": "ʃ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_postalveolar_fricative.ogg"
+    }, {
+        "name": "Voiced postalveolar fricative",
+        "symbol": "ʒ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_postalveolar_fricative.ogg"
+    }, {
+        "name": "Voiceless retroflex fricative",
+        "symbol": "ʂ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_retroflex_fricative.ogg"
+    }, {
+        "name": "Voiced retroflex fricative",
+        "symbol": "ʐ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_retroflex_fricative.ogg"
+    }, {
+        "name": "Voiceless palatal fricative",
+        "symbol": "ç",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_palatal_fricative.ogg"
+    }, {
+        "name": "Voiced palatal fricative",
+        "symbol": "ʝ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_palatal_fricative.ogg"
+    }, {
+        "name": "Voiceless velar fricative",
+        "symbol": "x",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_velar_fricative.ogg"
+    }, {
+        "name": "Voiced velar fricative",
+        "symbol": "ɣ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_velar_fricative.ogg"
+    }, {
+        "name": "Voiceless uvular fricative",
+        "symbol": "χ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_uvular_fricative.ogg"
+    }, {
+        "name": "Voiced uvular fricative",
+        "symbol": "ʁ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_uvular_fricative.ogg"
+    }, {
+        "name": "Voiceless pharyngeal fricative",
+        "symbol": "ħ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_pharyngeal_fricative.ogg"
+    }, {
+        "name": "Voiced pharyngeal fricative",
+        "symbol": "ʕ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_pharyngeal_fricative.ogg"
+    }, {
+        "name": "Voiceless glottal fricative",
+        "symbol": "h",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_glottal_fricative.ogg"
+    }, {
+        "name": "Voiced glottal fricative",
+        "symbol": "ɦ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_glottal_fricative.ogg"
+    }, {
+        "name": "Labiodental approximant",
+        "symbol": "ʋ",
+        "audio": "https://www.ipachart.com/ogg/Labiodental_approximant.ogg"
+    }, {
+        "name": "Retroflex approximant",
+        "symbol": "ɻ",
+        "audio": "https://www.ipachart.com/ogg/Retroflex_approximant.ogg"
+    }, {
+        "name": "Palatal approximant",
+        "symbol": "j",
+        "audio": "https://www.ipachart.com/ogg/Palatal_approximant.ogg"
+    }, {
+        "name": "Voiced velar approximant",
+        "symbol": "ɰ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_velar_approximant.ogg"
+    }, {
+        "name": "Retroflex lateral approximant",
+        "symbol": "ɭ",
+        "audio": "https://www.ipachart.com/ogg/Retroflex_lateral_approximant.ogg"
+    }, {
+        "name": "Palatal lateral approximant",
+        "symbol": "ʎ",
+        "audio": "https://www.ipachart.com/ogg/Palatal_lateral_approximant.ogg"
+    }, {
+        "name": "Velar lateral approximant",
+        "symbol": "ʟ",
+        "audio": "https://www.ipachart.com/ogg/Velar_lateral_approximant.ogg"
+    },
+    {
+        "name": "Bilabial click",
+        "symbol": "ʘ",
+        "audio": "https://www.ipachart.com/ogg/Bilabial_click.ogg"
+    },
+    {
+        "name": "Voiced bilabial implosive",
+        "symbol": "ɓ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_bilabial_implosive.ogg"
+    },
+    {
+        "name": "Bilabial ejective plosive",
+        "symbol": "pʼ",
+        "audio": "https://www.ipachart.com/ogg/Bilabial_ejective_plosive.ogg"
+    },
+    {
+        "name": "Dental click",
+        "symbol": "ǀ",
+        "audio": "https://www.ipachart.com/ogg/Dental_click.ogg"
+    },
+    {
+        "name": "Voiced alveolar implosive",
+        "symbol": "ɗ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_alveolar_implosive.ogg"
+    },
+    {
+        "name": "Alveolar ejective plosive",
+        "symbol": "tʼ",
+        "audio": "https://www.ipachart.com/ogg/Alveolar_ejective_plosive.ogg"
+    },
+    {
+        "name": "(Post)alveoalar",
+        "symbol": "ǃ",
+        "audio": "https://www.ipachart.com/ogg/Postalveolar_click.ogg"
+    },
+    {
+        "name": "Palatoalveolar",
+        "symbol": "ǂ",
+        "audio": "https://www.ipachart.com/ogg/Palatoalveolar_click.ogg"
+    },
+    {
+        "name": "Voiced velar implosive",
+        "symbol": "ɠ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_velar_implosive.ogg"
+    },
+    {
+        "name": "Alveolar ejective fricative",
+        "symbol": "sʼ",
+        "audio": "https://www.ipachart.com/ogg/Alveolar_ejective_fricative.ogg"
+    },
+    {
+        "name": "Alveolar lateral",
+        "symbol": "ǁ",
+        "audio": "https://www.ipachart.com/ogg/Alveolar_lateral_click.ogg"
+    },
+    {
+        "name": "Voiced uvular implosive",
+        "symbol": "ʛ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_uvular_implosive.ogg"
+    }
+]

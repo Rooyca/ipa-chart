@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Close front unrounded vowel",
+        "symbol": "i",
+        "audio": "https://www.ipachart.com/ogg/Close_front_unrounded_vowel.ogg"
+    }, {
+        "name": "Close front rounded vowel",
+        "symbol": "y",
+        "audio": "https://www.ipachart.com/ogg/Close_front_rounded_vowel.ogg"
+    }, {
+        "name": "Close central unrounded vowel",
+        "symbol": "ɨ",
+        "audio": "https://www.ipachart.com/ogg/Close_central_unrounded_vowel.ogg"
+    }, {
+        "name": "Close central rounded vowel",
+        "symbol": "ʉ",
+        "audio": "https://www.ipachart.com/ogg/Close_central_rounded_vowel.ogg"
+    }, {
+        "name": "Close back unrounded vowel",
+        "symbol": "ɯ",
+        "audio": "https://www.ipachart.com/ogg/Close_back_unrounded_vowel.ogg"
+    }, {
+        "name": "Close back rounded vowel",
+        "symbol": "u",
+        "audio": "https://www.ipachart.com/ogg/Close_back_rounded_vowel.ogg"
+    }, {
+        "name": "Near-close near-front unrounded vowel",
+        "symbol": "ɪ",
+        "audio": "https://www.ipachart.com/ogg/Near-close_near-front_unrounded_vowel.ogg"
+    }, {
+        "name": "Near-close near-front rounded vowel",
+        "symbol": "ʏ",
+        "audio": "https://www.ipachart.com/ogg/Near-close_near-front_rounded_vowel.ogg"
+    }, {
+        "name": "Near-close near-back rounded vowel",
+        "symbol": "ʊ",
+        "audio": "https://www.ipachart.com/ogg/Near-close_near-back_rounded_vowel.ogg"
+    }, {
+        "name": "Close-mid front unrounded vowel",
+        "symbol": "e",
+        "audio": "https://www.ipachart.com/ogg/Close-mid_front_unrounded_vowel.ogg"
+    }, {
+        "name": "Close-mid front rounded vowel",
+        "symbol": "ø",
+        "audio": "https://www.ipachart.com/ogg/Close-mid_front_rounded_vowel.ogg"
+    }, {
+        "name": "Close-mid central unrounded vowel",
+        "symbol": "ɘ",
+        "audio": "https://www.ipachart.com/ogg/Close-mid_central_unrounded_vowel.ogg"
+    }, {
+        "name": "Close-mid central rounded vowel",
+        "symbol": "ɵ",
+        "audio": "https://www.ipachart.com/ogg/Close-mid_central_rounded_vowel.ogg"
+    }, {
+        "name": "Close-mid back unrounded vowel",
+        "symbol": "ɤ",
+        "audio": "https://www.ipachart.com/ogg/Close-mid_back_unrounded_vowel.ogg"
+    }, {
+        "name": "Close-mid back rounded vowel",
+        "symbol": "o",
+        "audio": "https://www.ipachart.com/ogg/Close-mid_back_rounded_vowel.ogg"
+    }, {
+        "name": "Mid-central vowel",
+        "symbol": "ə",
+        "audio": "https://www.ipachart.com/ogg/Mid-central_vowel.ogg"
+    }, {
+        "name": "Open-mid front unrounded vowel",
+        "symbol": "ɛ",
+        "audio": "https://www.ipachart.com/ogg/Open-mid_front_unrounded_vowel.ogg"
+    }, {
+        "name": "Open-mid front rounded vowel",
+        "symbol": "œ",
+        "audio": "https://www.ipachart.com/ogg/Open-mid_front_rounded_vowel.ogg"
+    }, {
+        "name": "Open-mid central unrounded vowel",
+        "symbol": "ɜ",
+        "audio": "https://www.ipachart.com/ogg/Open-mid_central_unrounded_vowel.ogg"
+    }, {
+        "name": "Open-mid central rounded vowel",
+        "symbol": "ɞ",
+        "audio": "https://www.ipachart.com/ogg/Open-mid_central_rounded_vowel.ogg"
+    }, {
+        "name": "Open-mid back unrounded vowel",
+        "symbol": "ʌ",
+        "audio": "https://www.ipachart.com/ogg/Open-mid_back_unrounded_vowel.ogg"
+    }, {
+        "name": "Open-mid back rounded vowel",
+        "symbol": "ɔ",
+        "audio": "https://www.ipachart.com/ogg/Open-mid_back_rounded_vowel.ogg"
+    }, {
+        "name": "Near-open front unrounded vowel",
+        "symbol": "æ",
+        "audio": "https://www.ipachart.com/ogg/Near-open_front_unrounded_vowel.ogg"
+    }, {
+        "name": "Near-open central unrounded vowel",
+        "symbol": "ɐ",
+        "audio": "https://www.ipachart.com/ogg/Near-open_central_unrounded_vowel.ogg"
+    }, {
+        "name": "Open front unrounded vowel",
+        "symbol": "a",
+        "audio": "https://www.ipachart.com/ogg/Open_front_unrounded_vowel.ogg"
+    }, {
+        "name": "Open front rounded vowel",
+        "symbol": "ɶ",
+        "audio": "https://www.ipachart.com/ogg/Open_front_rounded_vowel.ogg"
+    }, {
+        "name": "Open back unrounded vowel",
+        "symbol": "ɑ",
+        "audio": "https://www.ipachart.com/ogg/Open_back_unrounded_vowel.ogg"
+    }, {
+        "name": "Open back rounded vowel",
+        "symbol": "ɒ",
+        "audio": "https://www.ipachart.com/ogg/Open_back_rounded_vowel.ogg"
+    }
+]

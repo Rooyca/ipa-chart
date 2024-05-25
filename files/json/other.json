@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Voiceless labial-velar fricative",
+        "symbol": "ʍ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_labio-velar_fricative.ogg"
+    },
+    {
+        "name": "Voiced labial-velar approximant",
+        "symbol": "w",
+        "audio": "https://www.ipachart.com/ogg/Voiced_labio-velar_approximant.ogg"
+    },
+    {
+        "name": "Voiced labial-palatal approximant",
+        "symbol": "ɥ",
+        "audio": "https://www.ipachart.com/ogg/Labial-palatal_approximant.ogg"
+    },
+    {
+        "name": "Voiceless epiglottal fricative",
+        "symbol": "ʜ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_epiglottal_fricative.ogg"
+    },
+    {
+        "name": "Voiced epiglottal fricative",
+        "symbol": "ʢ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_epiglottal_fricative.ogg"
+    },
+    {
+        "name": "Epiglottal plosive",
+        "symbol": "ʡ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_epiglottal_plosive.ogg"
+    },
+    {
+        "name": "Voiceless alveolo-palatal fricative",
+        "symbol": "ɕ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_alveolo-palatal_fricative.ogg"
+    },
+    {
+        "name": "Voiced alveolo-palatal fricative",
+        "symbol": "ʑ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_alveolo-palatal_fricative.ogg"
+    },
+    {
+        "name": "Alveolar lateral flap",
+        "symbol": "ɺ",
+        "audio": "https://www.ipachart.com/ogg/Alveolar_lateral_flap.ogg"
+    },
+    {
+        "name": "Simultaneous /ʃ/ and /x/",
+        "symbol": "ɧ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_dorso-palatal_velar_fricative.ogg"
+    },
+    {
+        "name": "Voiceless alveolar affricate",
+        "symbol": "t͡s",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_alveolar_affricate.ogg"
+    },
+    {
+        "name": "Voiceless palato-alveolar affricate",
+        "symbol": "t͡ʃ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_palato-alveolar_affricate.ogg"
+    },
+    {
+        "name": "Voiceless alveolo-palatal affricate",
+        "symbol": "t͡ɕ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_alveolo-palatal_affricate.ogg"
+    },
+    {
+        "name": "Voiceless retroflex affricate",
+        "symbol": "ʈ͡ʂ",
+        "audio": "https://www.ipachart.com/ogg/Voiceless_retroflex_affricate.ogg"
+    },
+    {
+        "name": "Voiced alveolar affricate",
+        "symbol": "d͡z",
+        "audio": "https://www.ipachart.com/ogg/Voiced_alveolar_affricate.ogg"
+    },
+    {
+        "name": "Voiced post-alveolar affricate",
+        "symbol": "d͡ʒ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_postalveolar_affricate.ogg"
+    },
+    {
+        "name": "Voiced alveolo-palatal affricate",
+        "symbol": "d͡ʑ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_alveolo-palatal_affricate.ogg"
+    },
+    {
+        "name": "Voiceless retroflex affricate",
+        "symbol": "ɖ͡ʐ",
+        "audio": "https://www.ipachart.com/ogg/Voiced_retroflex_affricate.ogg"
+    }
+]
